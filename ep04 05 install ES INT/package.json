@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "private": true,
+  "devDependencies": {
+    "eslint": "8.56",
+    "eslint-config-prettier": "8.10",
+    "prettier": "^3.3.3"
+  }
+}
